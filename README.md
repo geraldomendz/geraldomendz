@@ -1,17 +1,17 @@
-# Geraldo Mendes de Pontes Neto
+# Geraldo Mendes
 
-Estudante de **Sistemas de Informação**, com foco na área de **Dados**, utilizando **Python, Pandas e SQL**.  
-Desenvolvo projetos práticos voltados à análise, transformação e organização de dados, aplicando boas práticas e conceitos fundamentais da engenharia de dados.
+Estudante de **Sistemas de Informação pela UFPB (Universidade Federal da Paraíba)**, em busca de oportunidade de **estágio em Engenharia de Dados**.  
+Desenvolvo projetos práticos voltados à coleta, tratamento, transformação e organização de dados, aplicando conceitos fundamentais de pipelines de dados e boas práticas da área.
 
 ---
 
 ## Tecnologias
 
-- **Python** — automação, processamento e manipulação de dados  
-- **Pandas** — análise, limpeza e transformação de datasets  
-- **SQL** — consultas complexas, joins, agregações e modelagem relacional  
+- **Python** — automação, processamento e integração de dados  
+- **Pandas** — limpeza, transformação e preparação de dados  
+- **SQL** — consultas, joins, agregações e modelagem relacional  
 - **MySQL** — bancos de dados relacionais  
-- **Git & GitHub** — versionamento e controle de código  
+- **Git & GitHub** — versionamento e organização de projetos  
 
 ---
 
@@ -19,19 +19,19 @@ Desenvolvo projetos práticos voltados à análise, transformação e organizaç
 
 Neste perfil você encontrará:
 
-- Consultas SQL aplicadas a cenários reais  
-- Projetos de ETL utilizando Python e Pandas  
-- Análises exploratórias com dados públicos  
-- Mini projetos focados em aprendizado prático e boas práticas  
+- Projetos práticos de **SQL** aplicados a cenários reais  
+- Pipelines simples de **ETL** utilizando Python e Pandas  
+- Organização e transformação de dados para análise  
+- Mini projetos desenvolvidos com foco em Engenharia de Dados e aprendizado prático  
 
 ---
 
 ## Interesses Atuais
 
-- Engenharia de Dados  
-- Pipelines ETL  
-- Modelagem de Dados  
-- Qualidade e organização de dados  
+- Estágio em Engenharia de Dados  
+- Pipelines e processos ETL  
+- Modelagem e organização de dados  
+- Arquiteturas de dados (conceitos introdutórios)  
 
 ---
 
@@ -42,4 +42,4 @@ Neste perfil você encontrará:
 
 ---
 
-Este repositório tem como objetivo documentar minha evolução acadêmica e técnica por meio de projetos práticos.
+Este perfil tem como objetivo demonstrar minha evolução acadêmica e técnica na área de Engenharia de Dados por meio de projetos práticos.
