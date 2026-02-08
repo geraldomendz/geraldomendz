@@ -1,16 +1,45 @@
-## Hi there 👋
+# Geraldo Mendes de Pontes Neto
 
-<!--
-**geraldomendz/geraldomendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação**, com foco na área de **Dados**, utilizando **Python, Pandas e SQL**.  
+Desenvolvo projetos práticos voltados à análise, transformação e organização de dados, aplicando boas práticas e conceitos fundamentais da engenharia de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- **Python** — automação, processamento e manipulação de dados  
+- **Pandas** — análise, limpeza e transformação de datasets  
+- **SQL** — consultas complexas, joins, agregações e modelagem relacional  
+- **MySQL** — bancos de dados relacionais  
+- **Git & GitHub** — versionamento e controle de código  
+
+---
+
+## Projetos
+
+Neste perfil você encontrará:
+
+- Consultas SQL aplicadas a cenários reais  
+- Projetos de ETL utilizando Python e Pandas  
+- Análises exploratórias com dados públicos  
+- Mini projetos focados em aprendizado prático e boas práticas  
+
+---
+
+## Interesses Atuais
+
+- Engenharia de Dados  
+- Pipelines ETL  
+- Modelagem de Dados  
+- Qualidade e organização de dados  
+
+---
+
+## Contato
+
+- LinkedIn: *(https://www.linkedin.com/in/geraldo-mendes-11385a321/)*  
+- Email: *(geraldomendes3000@gmail.com)*  
+
+---
+
+Este repositório tem como objetivo documentar minha evolução acadêmica e técnica por meio de projetos práticos.
