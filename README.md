@@ -1,4 +1,4 @@
-# Geraldo Mendes
+# Geraldo Mendes de Pontes Neto
 
 Estudante de **Sistemas de Informação pela UFPB (Universidade Federal da Paraíba)**, em busca de oportunidade de **estágio em Engenharia de Dados**.  
 Desenvolvo projetos práticos voltados à coleta, tratamento, transformação e organização de dados, aplicando conceitos fundamentais de pipelines de dados e boas práticas da área.
