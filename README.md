@@ -37,8 +37,8 @@ Neste perfil você encontrará:
 
 ## Contato
 
-- LinkedIn: *(https://www.linkedin.com/in/geraldo-mendes-11385a321/)*  
-- Email: *(geraldomendes3000@gmail.com)*  
+- LinkedIn: *https://www.linkedin.com/in/geraldo-mendes-11385a321/*  
+- Email: *geraldomendes3000@gmail.com*  
 
 ---
 
