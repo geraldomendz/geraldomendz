@@ -31,7 +31,7 @@ Neste perfil você encontrará:
 - Estágio em Engenharia de Dados  
 - Pipelines e processos ETL  
 - Modelagem e organização de dados  
-- Arquiteturas de dados (conceitos introdutórios)  
+- Arquiteturas de dados  
 
 ---
 
@@ -40,6 +40,3 @@ Neste perfil você encontrará:
 - LinkedIn: *https://www.linkedin.com/in/geraldo-mendes-11385a321/*  
 - Email: *geraldomendes3000@gmail.com*  
 
----
-
-Este perfil tem como objetivo demonstrar minha evolução acadêmica e técnica na área de Engenharia de Dados por meio de projetos práticos.
