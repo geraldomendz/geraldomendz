@@ -23,7 +23,7 @@ Desenvolvendo soluções de coleta, transformação e análise de dados com ETL,
 ---
 
 
-## 📂 Projetos em Destaque
+## 📂 Projetos 
 
 ### 🔄 [ETL — Dados Públicos](https://github.com/geraldomendz/etl-dados-publicos)
 > **Python · Pandas · MySQL**
