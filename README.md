@@ -6,6 +6,7 @@ Desenvolvendo soluções de coleta, transformação e análise de dados com ETL,
 
 ---
 
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
@@ -21,9 +22,10 @@ Desenvolvendo soluções de coleta, transformação e análise de dados com ETL,
 
 ---
 
-##  Projetos em Destaque
 
-###  [ETL — Dados Públicos](https://github.com/geraldomendz/etl-dados-publicos)
+## 📂 Projetos em Destaque
+
+### 🔄 [ETL — Dados Públicos](https://github.com/geraldomendz/etl-dados-publicos)
 > **Python · Pandas · MySQL**
 
 Pipeline de dados para ingestão, transformação e carga de dados públicos estruturados em JSON.
@@ -34,7 +36,7 @@ Pipeline de dados para ingestão, transformação e carga de dados públicos est
 
 ---
 
-###  [SQL — Fundamentos e Consultas](https://github.com/geraldomendz/sql-fundamentos-consultas)
+### 📊 [SQL — Fundamentos e Consultas](https://github.com/geraldomendz/sql-fundamentos-e-consultas)
 > **MySQL**
 
 Consultas analíticas para exploração e geração de métricas a partir de bases estruturadas.
@@ -45,7 +47,8 @@ Consultas analíticas para exploração e geração de métricas a partir de bas
 
 ---
 
-##  Contato
+
+## 📬 Contato
 
 - LinkedIn: https://www.linkedin.com/in/geraldo-mendes-11385a321/
 - Email: geraldomendes3000@gmail.com
