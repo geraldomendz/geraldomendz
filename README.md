@@ -47,6 +47,14 @@ Consultas analíticas para exploração e geração de métricas a partir de bas
 
 ---
 
+### 📈 [Dashboard de Vendas — Power BI](https://github.com/geraldomendz/powerbi-dashboard-vendas)
+> **Power BI · Power Query · DAX · Excel**
+Dashboard interativo de vendas construído com foco em transformar dados brutos em indicadores para tomada de decisão.
+- Modelagem no esquema **fato/dimensão** (fVendas, dClientes, dProdutos, dCalendario)
+- Tratamento e padronização dos dados com **Power Query**
+- Criação de métricas com **DAX**: Total Vendido, Lucro, Margem (%) e Impostos
+
+---
 
 ## 📬 Contato
 
